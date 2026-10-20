@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"
-       demote-non-dropping-particle="never" default-locale="pt-BR">
+       demote-non-dropping-particle="display-and-sort" default-locale="pt-BR">
 
   <info>
     <title>ABNT NBR 6023:2025 e NBR 10520:2023 (autor-data)</title>
