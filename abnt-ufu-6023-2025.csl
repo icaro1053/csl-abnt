@@ -4,15 +4,15 @@
 
   <info>
     <title>ABNT NBR 6023:2025 e NBR 10520:2023 (autor-data)</title>
-    <id>https://ufu.br/csl/abnt-6023-2025-10520-2023</id>
-    <link href="https://ufu.br/csl/abnt-6023-2025-10520-2023" rel="self"/>
+    <id>https://raw.githubusercontent.com/icaro1053/csl-abnt/main/abnt-ufu-6023-2025.csl</id>
+    <link href="https://raw.githubusercontent.com/icaro1053/csl-abnt/main/abnt-ufu-6023-2025.csl" rel="self"/>
     <author><name>Ícaro Gonçalves Pereira</name></author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Autor-data conforme a ABNT NBR 6023:2025 (referências) e a ABNT NBR
       10520:2023 (citações). Sobrenome em caixa alta na lista e em caixa mista nas
       citações; todos os autores na referência; et al. a partir de quatro na citação.</summary>
-    <updated>2026-10-20T09:00:00-03:00</updated>
+    <updated>2026-10-20T11:20:00-03:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</rights>
   </info>
 
